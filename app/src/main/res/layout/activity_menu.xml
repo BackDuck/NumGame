@@ -21,6 +21,7 @@
         android:textColor="@color/gray"
         android:fontFamily="sans-serif"
         android:textSize="30sp"
+        android:id="@+id/myRecord"
         android:background="@drawable/ova"/>
     <!--<TextView-->
         <!--android:layout_width="0dp"-->
